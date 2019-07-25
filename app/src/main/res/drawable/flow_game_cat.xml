@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/flow_game_cat_normal" android:state_activated="false"/>
+    <item android:drawable="@mipmap/flow_game_cat_activated" android:state_activated="true"/>
+</selector>
